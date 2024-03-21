@@ -1,0 +1,25 @@
+.Flag{
+    display: flex;
+    flex-direction: column;
+}
+
+.first{
+    height: 200px;
+    width: 1340px;
+    background-color: orange;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    padding-left: 550px;
+}
+
+.third{
+    height: 200px;
+    width: 1340px;
+    background-color: green;
+}
+
+
